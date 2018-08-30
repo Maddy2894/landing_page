@@ -8,3 +8,19 @@ body{
 	background-color: #201E1E;
 	color: white;
 }
+
+.wrapper{
+	text-align: center;
+	
+}
+
+.btn-primary{
+	left: 41%;
+    margin: 10px;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    width: 20%;
+    border-radius: 10px;
+    height: 7%;
+}
